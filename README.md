@@ -12,3 +12,8 @@ Sou apaixonada por Tecnologia e jogos💖
     
 
  
+<div>
+
+![Snake animation](https://github.com/janeluz/janeluz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
