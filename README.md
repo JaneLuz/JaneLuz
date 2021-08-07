@@ -10,9 +10,3 @@ Sou apaixonada por Tecnologia e jogos💖
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeluz&layout=compact&langs_count=7&theme=dracula"/>
    </div>
     
-
- <div>
-
-![Snake animation](https://github.com/janeluz/janeluz/blob/main/github-contribution-grid-snake.svg)
-
-</div>
