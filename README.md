@@ -2,7 +2,7 @@ Olá!! Eu sou a Jane Luz ✨
 
 Estudo programação 👩‍💻
 
-Sou apaixonada por Tecnologia e jogos💖
+Sou apaixonada por Tecnologia!!!
 
  <div>
    <a href="https://github.com/janeluz">
