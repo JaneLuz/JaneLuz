@@ -1,6 +1,6 @@
 Olá!! Eu sou a Jane Luz ✨
 
-Atualmente estou ursando Ciência da Computação 👩‍💻
+Atualmente estou cursando Ciência da Computação 👩‍💻
 
 Sou apaixonada por Tecnologia!!!
 
