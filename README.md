@@ -1,6 +1,6 @@
 Olá!! Eu sou a Jane Luz ✨
 
-Estudo programação 👩‍💻
+Atualmente estou ursando Ciência da Computação 👩‍💻
 
 Sou apaixonada por Tecnologia!!!
 
